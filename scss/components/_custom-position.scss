@@ -1,0 +1,50 @@
+.position- {
+  &plant {
+    &1 {
+      left: 48px;
+      bottom: 48px;
+    }
+  
+    &2 {
+      right: 42px;
+      top: 34%;
+    }
+  }
+
+  &challenge {
+    right: 20px;
+    bottom: -20px;
+  }
+
+  &cat-po {
+    left: 172px;
+    bottom: 162px;
+  }
+
+  &text-po {
+    left: -30px;
+    top: 30px;
+  }
+
+  &text-high {
+    top: -15px;
+    left: -10px;
+  }
+
+  &text-low {
+    bottom: -15px;
+    left: -10px;
+  }
+
+  &polygon {
+    &1 {
+      top: 8px;
+      left: -10px;
+    }
+
+    &2 {
+      bottom: 8px;
+      left: -10px;
+    }
+  }
+}
